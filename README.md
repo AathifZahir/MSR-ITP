@@ -82,7 +82,7 @@ MSR Tailors and Fashion Management System is a comprehensive web-based applicati
     </td>
     <td align="center">
       <a href="https://github.com/CrypticDroid">
-        <img src="https://github.com/CrypticDroid.png?size=100" width="80" height="80" style="border-radius: 50%;" /><br />
+        <img src="https://github.com//AathifZahir.png?size=100" width="80" height="80" style="border-radius: 50%;" /><br />
         M.Z.M Aathif
       </a>
     </td>
